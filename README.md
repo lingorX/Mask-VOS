@@ -10,10 +10,10 @@ The objective of this paper is self-supervised learning of video object segmenta
 
 ## <a name="CitingMaskVOS"></a>Citing MaskVOS
 ```BibTeX
-@article{li2023unified,
-  title={Unified Mask Embedding and Correspondence Learning for Self-Supervised Video Segmentation},
-  author={Li, Liulei and Wang, Wenguan and Zhou, Tianfei and Li, Jianwu and Yang, Yi},
-  journal={arXiv preprint arXiv:2303.10100},
-  year={2023}
+@inproceedings{li2023unified,
+	title={Unified Mask Embedding and Correspondence Learning for Self-Supervised Video Segmentation},
+	author={Li, Liulei and Wang, Wenguan and Zhou, Tianfei and Li, Jianwu and Yang, Yi},
+	booktitle=CVPR,
+	year={2023}
 }
 ```
